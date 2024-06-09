@@ -8,7 +8,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [Screenshot](#screenshot)
 - [Links](#links)
 - [Built with](#built-with)
-- [Useful resources](#useful-resources)
 - [Author](#author)
 
 ### The challenge
@@ -20,25 +19,18 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./Screenshot%202024-06-09%20at%2021-47-55%20Frontend%20Mentor%20Product%20preview%20card%20component.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- Live Site URL: [Product Preview Card Component](https://gideon-w.github.io/Frontend-Mentor-Product-preview-card-component/)
 
 ### Built with
 
 - Semantic HTML5 markup & CSS.
 - Flexbox Layout
 - Mobile-first workflow
-
-### Useful resources
-
-- [freecodecamp](https://freecodecamp.org/) - They have an awesome Curriculum Design that enabled me to understand    making web pages resposnive.
 
 ## Author
 
